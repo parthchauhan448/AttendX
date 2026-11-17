@@ -1,0 +1,4 @@
+attendance_data/
+__pycache__/
+*.py[cod]
+.vscode/
